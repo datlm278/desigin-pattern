@@ -1,0 +1,10 @@
+- Creational pattern
+	+ Singleton
+
+- Structural pattern
+	+ Adapter
+	+ Composite
+	+ Facade
+
+- Behavioral pattern
+	+ Observer

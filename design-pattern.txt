@@ -1,5 +1,6 @@
 - Creational pattern
 	+ Singleton
+	+ Builder
 
 - Structural pattern
 	+ Adapter

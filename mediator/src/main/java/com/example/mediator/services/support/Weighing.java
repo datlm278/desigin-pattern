@@ -22,6 +22,5 @@ public class Weighing implements Colleague {
 
     public void off () {
         System.out.println("Weighing is off ...");
-//        mediator.wash();
     }
 }

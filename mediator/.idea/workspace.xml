@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58a20449-96bf-4df8-8a2c-a211220d27e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediator/MediatorApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediator/services/Colleague.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediator/services/MachineMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediator/services/mediator/CottonMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediator/services/mediator/DenimMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediator/services/support/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediator/services/support/Heater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediator/services/support/Machine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediator/services/support/Motor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediator/services/support/Sensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediator/services/support/SoilRemoval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediator/services/support/Valve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediator/services/support/Weighing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/mediator/MediatorApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design-pattern.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../design-pattern.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mediator/services/support/Weighing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mediator/services/support/Weighing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666532555920</updated>
-      <workItem from="1666532557130" duration="5281000" />
+      <workItem from="1666532557130" duration="6077000" />
     </task>
     <servers />
   </component>

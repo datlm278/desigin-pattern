@@ -8,3 +8,5 @@
 
 - Behavioral pattern
 	+ Observer
+	+ Mediator
+	+ Chain of Responsibility

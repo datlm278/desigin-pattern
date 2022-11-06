@@ -1,6 +1,7 @@
 - Creational pattern
 	+ Singleton
 	+ Builder
+	+ Factory Method
 
 - Structural pattern
 	+ Adapter
